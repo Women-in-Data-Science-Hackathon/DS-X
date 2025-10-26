@@ -3,7 +3,6 @@
 Spark! October 25th Hackathon
 
 ---
-
 ## Overview 
 Hi, welcome to our project! Our goal is to help Boston University expand its global recruitment opportunities by using data to make smarter outreach decisions. We researched and built a dataset that includes key indicators such as GDP per capita, number of international schools, student visa approval rates, and the size of a country’s upper-secondary (high school) student population. These factors help identify regions with strong potential for student engagement, allowing BU to reach students earlier in their academic journey and encourage them to apply. Ultimately, this approach supports BU’s mission of increasing global access and building a more diverse student body, because with greater diversity comes greater perspectives, innovation, and solutions.
 
@@ -85,4 +84,13 @@ This framework gives BU a **scalable, evidence-based approach** to global recrui
 - Strengthening **global access and diversity**  
 
 ---
+## Repository Structure
+
+| Folder | Description |
+|--------|-------------|
+| `Data/` | Contains raw and cleaned datasets used for analysis |
+| `Notebooks/` | Jupyter notebooks for data exploration and model development |
+| `deliverables/` | Project deliverables such as reports, slides, and documentation |
+| `merging/` | Temporary working folder used for combining notebook and data files |
+| `README.md` | Project overview and documentation |
 
