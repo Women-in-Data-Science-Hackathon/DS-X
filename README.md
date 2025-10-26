@@ -1,7 +1,7 @@
 # Data-Driven Global Student Recruitment
 ### Strategic Outreach Framework (WiDS)
 Spark! October 25th Hackathon
-By: Chloe Ling, Diya Vora, Cindy Frempong, Primah Muwanga, Arsheya Jaishiva
+## By: Chloe Ling, Diya Vora, Cindy Frempong, Primah Muwanga, Arsheya Jaishiva
 
 ---
 ## Overview 
