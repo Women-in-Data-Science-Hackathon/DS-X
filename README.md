@@ -1,7 +1,6 @@
 # Data-Driven Global Student Recruitment
 ### Strategic Outreach Framework (WiDS)
 Spark! October 25th Hackathon
-##### By: Chloe Ling, Diya Vora, Cindy Frempong, Primah Muwanga, Arsheya Jaishiva
 
 ---
 ## Overview 
@@ -94,4 +93,17 @@ This framework gives BU a **scalable, evidence-based approach** to global recrui
 | `deliverables/` | Project deliverables such as reports, slides, and documentation |
 | `merging/` | Temporary working folder used for combining notebook and data files |
 | `README.md` | Project overview and documentation |
+
+## ✍️ Contributors
+
+| Name | Role | Email |
+|------|------|--------|
+| Chloe Ling | Team Member |  |
+| Diya Vora | Team Member |  |
+| Cindy Frempong | Team Member |  |
+| Primah Muwanga | Team Member |  |
+| Arsheya Jaishiva | Team Member |  |
+
+---
+This project was inspired by the need to rethink how universities approach global student recruitment. Instead of relying on historical patterns or visiting the same countries year after year, we wanted to build a data-driven framework that identifies where opportunity actually exists today. With the increasing demand for international education and Boston University’s commitment to global diversity, we saw an opportunity to use data science not just for analysis—but for impactful decision-making. Our team was motivated by the idea that access to education should be strategic and equitable, and that thoughtful recruitment can open doors for talented students across regions that are often overlooked.
 
